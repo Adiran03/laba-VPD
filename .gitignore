@@ -1,0 +1,9 @@
+# Результаты сборки
+*.exe
+*.o
+*.class
+*.pyc
+__pycache__/
+dist/
+bin/
+obj/
