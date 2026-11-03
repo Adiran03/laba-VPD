@@ -1,6 +1,6 @@
 fn main() {
-    let name_ru = "Чнваня Адриан";
-    let name_en = "Adrian Chnvanya";
+    let name_ru = "Чнаваян Адриан";
+    let name_en = "Adrian Chnvayan";
     let num = 29;
     let group = "М03-104БВ-26";
     let lang = "Rust";

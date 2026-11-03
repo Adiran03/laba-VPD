@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        String nameRu = "Чнваня Адриан";
-        String nameEn = "Adrian Chnvanya";
+        String nameRu = "Чнаваян Адриан";
+        String nameEn = "Adrian Chnvayan";
         int num = 29;
         String group = "М03-104БВ-26";
         String lang = "Java";

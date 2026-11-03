@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	nameRu := "Чнваня Адриан"
-	nameEn := "Adrian Chnvanya"
+	nameRu := "Чнаваян Адриан"
+	nameEn := "Adrian Chnvayan"
 	num := 29
 	group := "М03-104БВ-26"
 	lang := "Go"

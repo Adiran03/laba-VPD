@@ -2,8 +2,8 @@ using System;
 
 class Program {
     static void Main() {
-        string nameRu = "Чнваня Адриан";
-        string nameEn = "Adrian Chnvanya";
+        string nameRu = "Чнаваян Адриан";
+        string nameEn = "Adrian Chnvayan";
         int num = 29;
         string group = "М03-104БВ-26";
         string lang = "C#";

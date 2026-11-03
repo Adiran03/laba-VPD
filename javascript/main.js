@@ -1,5 +1,5 @@
-let nameRu = "Чнваня Адриан";
-let nameEn = "Adrian Chnvanya";
+let nameRu = "Чнаваян Адриан";
+let nameEn = "Adrian Chnvayan";
 let num = 29;
 let group = "М03-104БВ-26";
 let lang = "JavaScript";

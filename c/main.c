@@ -5,8 +5,8 @@ int main() {
     SetConsoleCP(CP_UTF8);
     SetConsoleOutputCP(CP_UTF8);
 
-    char name_ru[] = "Чнваня Адриан";
-    char name_en[] = "Adrian Chnvanya";
+    char name_ru[] = "Чнаваян Адриан";
+    char name_en[] = "Adrian Chnvayan";
     int num = 29;
     char group[] = "М03-104БВ-26";
     char lang[] = "C";

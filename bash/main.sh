@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-name_ru="Чнваня Адриан"
-name_en="Adrian Chnvanya"
+name_ru="Чнваян Адриан"
+name_en="Adrian Chnvayan"
 num=29
 group="М03-104БВ-26"
 lang="Bash"

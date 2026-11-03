@@ -1,7 +1,6 @@
 % База данных из одного факта
-student('Чнваня Адриан', 'Adrian Chnvanya', 29, 'М03-104БВ-26', 'Prolog').
+student('Чнаваян Адриан', 'Adrian Chnvanya', 29, 'М03-104БВ-26', 'Prolog').
 
-% Простое правило подсчета
 get_control(N, Res) :- Res is 304 * N.
 
 main :-
